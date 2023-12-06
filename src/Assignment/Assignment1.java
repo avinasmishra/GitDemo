@@ -25,6 +25,13 @@ public class Assignment1 {
 		//2. 
 		System.out.println(driver.findElements(By.xpath("//*[@type='checkbox']")).size());
 		
+		System.out.println("Assignment1");
+		System.out.println("Assignment2");
+		System.out.println("Assignment3");
+				
+				
+				
+		
 	}
 
 }
