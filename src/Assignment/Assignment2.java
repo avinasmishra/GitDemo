@@ -27,6 +27,9 @@ public class Assignment2 {
 		System.out.println(driver.findElement(By.xpath("//div[@class='alert alert-success alert-dismissible']")).getText());
 		// System.out.println(driver.findElement(By.cssSelector(".alert-success")).getText());
 
+		System.out.println("Assignment1");
+		System.out.println("Assignment2");
+		System.out.println("Assignment3");
 	}
 
 }
